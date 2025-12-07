@@ -1,0 +1,5 @@
+numpy
+sounddevice
+aubio
+pygame
+opencv-python

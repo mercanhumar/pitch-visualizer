@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Video sources
+*.mp4
+*.mov
+*.avi
+
+# OneDrive metadata
+*.tmp.drivedownload
