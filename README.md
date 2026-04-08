@@ -1,5 +1,5 @@
 # 🎤 Real-time Vocal Pitch Visualizer 🎹  
-A desktop application for real-time vocal pitch detection, piano visualization, and interactive practice mode — built with Python, Pygame, Aubio, NumPy, and OpenCV.
+
 
 <p align="center">
   <img src="assets/demo.gif" width="720">
